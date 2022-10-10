@@ -1,0 +1,10 @@
+SEND’Please enter a number'TO DISPLAY
+RECEIVE fristNumber FROM KEYDORD
+SEND'Please enter a number'TO DISPLAY
+RECEIVE second Number FROM NUMDER 
+IF temperature  <18
+SEND'Cold,the perfect temperature for sleep is 18-21 degees' TO DISPLAY
+
+
+
+
